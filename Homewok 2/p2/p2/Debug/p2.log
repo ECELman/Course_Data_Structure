@@ -1,0 +1,11 @@
+﻿  p2.cpp
+d:\學校\課堂作業\資料結構\p2\p2\transpose_method.h(4): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+d:\學校\課堂作業\資料結構\p2\p2\fast_transpose_method.h(4): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  Transpose_Method.cpp
+d:\學校\課堂作業\資料結構\p2\p2\transpose_method.h(4): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  Traditional_Method.cpp
+  Fast_Transpose_Method.cpp
+d:\學校\課堂作業\資料結構\p2\p2\fast_transpose_method.h(4): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  正在產生程式碼...
+  p2.vcxproj -> D:\學校\課堂作業\資料結構\p2\Debug\p2.exe
+  p2.vcxproj -> D:\學校\課堂作業\資料結構\p2\Debug\p2.pdb (Full PDB)
