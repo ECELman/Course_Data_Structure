@@ -1,0 +1,6 @@
+﻿  Hw3_A1045516.cpp
+d:\學校\課堂作業\資料結構\hw3_a1045516\hw3_a1045516\hw3_a1045516.cpp(165): warning C4018: '<': signed/unsigned 不相符
+d:\學校\課堂作業\資料結構\hw3_a1045516\hw3_a1045516\hw3_a1045516.cpp(191): warning C4018: '<': signed/unsigned 不相符
+d:\學校\課堂作業\資料結構\hw3_a1045516\hw3_a1045516\hw3_a1045516.cpp(146): warning C4715: 'path': 不是所有控制路徑都傳回值
+  Hw3_A1045516.vcxproj -> D:\學校\課堂作業\資料結構\Hw3_A1045516\Debug\Hw3_A1045516.exe
+  Hw3_A1045516.vcxproj -> D:\學校\課堂作業\資料結構\Hw3_A1045516\Debug\Hw3_A1045516.pdb (Full PDB)
